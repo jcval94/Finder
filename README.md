@@ -1,2 +1,2 @@
 # Finder
-Find text in a for each document in a folder and subfolders
+Search text in a folder and subfolders
